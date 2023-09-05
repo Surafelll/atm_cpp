@@ -63,10 +63,10 @@
 	     {
 	    system("cls");
 
-	        cout<<"\n\xB2\xB2\xB2\xB2\\xB2\xB2\xB2\xB2\ATM ACCOUNT INTEREST PAYMENT\xB2\xB2\xB2\xB2\\xB2\xB2\xB2\xB2\\n\n";
-	       cout<<"\tThe Interest is calculate over the last SIX months on the average account balance\n";
-	       cout<<"\n\t\tInterest Rate payable is 10% per annum."<<endl;
-	       cout<<"\t\tView the accumulated interest? Press 1 for Yes OR 0 for NO.\n\n";
+	    	cout<<"\n\xB2\xB2\xB2\xB2\\xB2\xB2\xB2\xB2\ATM ACCOUNT INTEREST PAYMENT\xB2\xB2\xB2\xB2\\xB2\xB2\xB2\xB2\\n\n";
+	    	cout<<"\tThe Interest is calculate over the last SIX months on the average account balance\n";
+	    	cout<<"\n\t\tInterest Rate payable is 10% per annum."<<endl;
+	    	cout<<"\t\tView the accumulated interest? Press 1 for Yes OR 0 for NO.\n\n";
 
 
 
